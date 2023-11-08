@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553129423523",
+    "project_id": "flutter-notifications-bb314",
+    "storage_bucket": "flutter-notifications-bb314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553129423523:android:60704fa5c44e82427c0516",
+        "android_client_info": {
+          "package_name": "com.diegocarrera.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9D7pjaHiZZZZ1JeNXbs3z7ZY69wkFxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553129423523:android:cf9d16955671b9987c0516",
+        "android_client_info": {
+          "package_name": "com.javiercarrera.notificaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9D7pjaHiZZZZ1JeNXbs3z7ZY69wkFxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
